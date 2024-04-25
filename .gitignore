@@ -14,3 +14,8 @@ database.sql-journal
 # parcel
 dist/
 .parcel-cache/
+
+# Others 
+.config/
+.npm/
+.git/
