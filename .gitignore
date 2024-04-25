@@ -19,3 +19,4 @@ dist/
 .config/
 .npm/
 .git/
+package-lock.json
