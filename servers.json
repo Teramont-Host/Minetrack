@@ -1,12 +1,12 @@
 [
 	{
-        "name": "Watones Network",
-        "ip": "mc.watones.xyz",
-        "type": "PC"
+        	"name": "Watones Network",
+        	"ip": "mc.watones.xyz",
+        	"type": "PC"
 	},
 	{
-        "name": "SunCraft Network",
-        "ip": "mc.suncraft.lol",
-        "type": "PC"
+        	"name": "SunCraft Network",
+        	"ip": "mc.suncraft.lol",
+        	"type": "PC"
 	}
 ]
