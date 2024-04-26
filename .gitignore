@@ -19,7 +19,6 @@ dist/
 .config/
 .npm/
 .git/
-package-lock.json
 
 # Teramont
 3def4afa-5fd2-47d1-80f5-729d4e188515/
