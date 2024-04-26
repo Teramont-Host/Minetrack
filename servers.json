@@ -13,10 +13,5 @@
 		"name": "Mexacraft Network",
 		"ip": "mc.mexacraft.net",
 		"type": "PC"
-	},
-	{
-		"name": "Veltacraft Network",
-		"ip": "mc.veltacraft.net",
-		"type": "PC"
 	}
 ]
