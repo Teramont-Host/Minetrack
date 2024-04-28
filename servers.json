@@ -13,5 +13,10 @@
 		"name": "Mexacraft Network",
 		"ip": "mc.mexacraft.net",
 		"type": "PC"
+	},
+	{
+		"name": "AkioMC",
+		"ip": "akiomc.com",
+		"type": "PC"
 	}
 ]
