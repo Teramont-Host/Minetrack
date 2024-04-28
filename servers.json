@@ -28,6 +28,11 @@
 		"name": "Cibyland",
 		"ip": "cibyland.live",
 		"type": "PC"
+	},
+	{
+		"name": "Lunarbox",
+		"ip": "lunabox.net",
+		"type": "PC"
 	}
 	
 ]
