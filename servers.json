@@ -18,5 +18,16 @@
 		"name": "AkioMC",
 		"ip": "akiomc.com",
 		"type": "PC"
+	},
+	{
+		"name": "MineStars",
+		"ip": "minestars.org",
+		"type": "PC"
+	},
+	{
+		"name": "Cibyland",
+		"ip": "cibyland.live",
+		"type": "PC"
 	}
+	
 ]
